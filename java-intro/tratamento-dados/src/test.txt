@@ -1,0 +1,2 @@
+Testando leitura de arquivo.
+Verificando a quebra de linha.
